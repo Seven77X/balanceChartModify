@@ -1,4 +1,5 @@
 # Getting Started
+
 - Hit run
 - Edit [App.vue](#src/App.vue) and watch it live update!
 
@@ -9,3 +10,7 @@ You can learn more in the [Base Extension Development Guide](https://bytedance.f
 ## Install packages
 
 Install packages in Shell pane or search and add in Packages pane.
+
+# balanceChartModify
+
+707defe8dcca4c42672e23b09b680dec0ff79eac
